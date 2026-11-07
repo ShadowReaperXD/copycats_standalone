@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "copycats:block/copycat_byte" }
+  }
+}

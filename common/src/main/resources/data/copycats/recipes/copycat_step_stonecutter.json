@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "copycats:copycat_block"
+  },
+  "result": {
+    "item": "copycats:copycat_step",
+    "count": 1
+  }
+}
